@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\bin\Debug\sliders-databinding ve triggres.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\bin\Debug\sliders-databinding ve triggres.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\bin\Debug\sliders-databinding ve triggres.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders-databinding ve triggres.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders-databinding ve triggres_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders-databinding ve triggres_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders-databinding ve triggres.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders_databinding_ve_triggres.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders-databinding ve triggres.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders-databinding ve triggres.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders-databinding ve triggres.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\sliders-databinding ve triggres\sliders-databinding ve triggres\obj\Debug\sliders-databinding ve triggres.pdb

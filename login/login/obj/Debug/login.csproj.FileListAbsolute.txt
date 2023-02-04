@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\bin\Debug\login.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\bin\Debug\login.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\bin\Debug\login.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\login\login\obj\Debug\login.pdb

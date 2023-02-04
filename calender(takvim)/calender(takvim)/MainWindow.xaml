@@ -1,0 +1,30 @@
+﻿<Window x:Class="calender_takvim_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calender_takvim_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="400">
+    <StackPanel>
+        <Viewbox Stretch="Uniform">
+            <Calendar SelectedDate="07.14.2022"
+                      x:Name="mycalendar"
+                      SelectedDatesChanged="mycalendar_SelectedDatesChanged"
+                      DisplayMode="Month"  
+                      >
+                <Calendar.BlackoutDates>
+                    <CalendarDateRange Start="06.15.2022" End="06.19.2022">
+                        <!-- burda aralıktaki tarihleri carpı atıyor  -->
+                    </CalendarDateRange> 
+                    
+                </Calendar.BlackoutDates>
+                
+            </Calendar>
+        </Viewbox>
+
+        <TextBlock x:Name="mytextblock"  >
+            
+        </TextBlock>
+    </StackPanel>
+</Window>

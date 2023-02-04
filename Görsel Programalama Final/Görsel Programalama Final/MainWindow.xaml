@@ -1,0 +1,26 @@
+﻿<Window x:Class="Görsel_Programalama_Final.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:meterialDesing="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Görsel_Programalama_Final"
+        mc:Ignorable="d"
+        
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF4FEB13">
+        <Button Content="Ana Form sayfası " HorizontalAlignment="Left" Margin="464,331,0,0" VerticalAlignment="Top" Width="320" Click="Button_Click" Height="50" FontSize="25" FontWeight="Bold" FontStyle="Italic" Background="#FFF5F50F"/>
+        <Button Content="Ücret Hesaplama Formu Sayfası" HorizontalAlignment="Left" Margin="30,331,0,0" VerticalAlignment="Top" Width="400" Height="50" Click="Button_Click_1" FontSize="25" Background="#FFF5F50F" FontWeight="Bold" FontStyle="Italic"/>
+        <Label Content="Masaüstü Tek Kişilik Tatil Organizasyon Uygulamasına Hoşgeldiniz" HorizontalAlignment="Left" Margin="30,28,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontStyle="Italic"/>
+        <Label Content="Ana Forma Gitemeden Önce Hesaplama Formu Sayfasına Gidip Hesaplama ile ilgili bilgi alabilirsiniz  " HorizontalAlignment="Left" Margin="10,280,0,0" VerticalAlignment="Top" FontSize="17" Height="46" Width="774" FontStyle="Italic"/>
+        <Image HorizontalAlignment="Left" Height="205" Margin="30,70,0,0" VerticalAlignment="Top" Width="732" Source="1566478953.jpg" StretchDirection="UpOnly" Stretch="Fill"/>
+
+    </Grid>
+</Window>

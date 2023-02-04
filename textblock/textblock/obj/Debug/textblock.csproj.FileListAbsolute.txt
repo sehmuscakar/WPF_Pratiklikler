@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\bin\Debug\textblock.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\bin\Debug\textblock.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\bin\Debug\textblock.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textblock\textblock\obj\Debug\textblock.pdb

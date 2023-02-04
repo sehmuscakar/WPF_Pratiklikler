@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\bin\Debug\statusBar.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\bin\Debug\statusBar.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\bin\Debug\statusBar.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\statusBar\statusBar\obj\Debug\statusBar.pdb

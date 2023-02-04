@@ -1,0 +1,47 @@
+﻿<Window x:Class="radiobuton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:radiobuton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="620">
+    <StackPanel>
+        <Label  FontWeight="Bold" FontSize="30" >
+            Aşahıdakilerin hangisi Göneydoğu şehridir 
+            
+        </Label>
+        <RadioButton GroupName="şehirler" FontSize="30" VerticalContentAlignment="Center" >
+            <WrapPanel>
+                <Image Source="C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\indir (9).jfif" Height="80" Width="100" ></Image>
+                <Label>Eskişehir</Label>
+            </WrapPanel>
+        </RadioButton>
+
+
+        <RadioButton GroupName="şehirler" FontSize="30" VerticalContentAlignment="Center">
+            <WrapPanel>
+                <Image Source="C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\indir (8).jfif" Height="80" Width="100"  ></Image>
+                <Label>İstanbul</Label>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton GroupName="şehirler" FontSize="30" VerticalContentAlignment="Center" >
+            <WrapPanel>
+                <Image Source="C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\indir (10).jfif" Height="80" Width="100" ></Image>
+                <Label>Ankara</Label>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton x:Name="rbmardin" Checked="rbmardin_Checked" Unchecked="rbmardin_Unchecked"  GroupName="şehirler" FontSize="30" VerticalContentAlignment="Center"  > <!--IsChecked="True" bu işaretleme yapar  -->
+            <WrapPanel>
+                <Image Source="C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\indir (7).jfif" Height="80" Width="100"  ></Image>
+                <Label Name="lbmardin" >Mardin</Label>
+            </WrapPanel>
+        </RadioButton>
+
+        <Label FontWeight="Bold" FontSize="30" >Aşahıdakilerin hangisi en küçüğüdür </Label>
+        <RadioButton x:Name="rbkucuksayi" GroupName="sayılar" Checked="RadioButton_Checked" Unchecked="rbkucuksayi_Unchecked" FontSize="30" VerticalContentAlignment="Center">120</RadioButton>
+        <RadioButton GroupName="sayılar"  FontSize="30" VerticalContentAlignment="Center">122</RadioButton>
+        <RadioButton GroupName="sayılar" FontSize="30" VerticalContentAlignment="Center" >124</RadioButton>
+        <RadioButton GroupName="sayılar" FontSize="30" VerticalContentAlignment="Center">125</RadioButton>
+    </StackPanel>
+</Window>

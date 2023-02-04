@@ -1,0 +1,22 @@
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\bin\Debug\netcoreapp3.1\wpf uygulama 1.exe
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\bin\Debug\netcoreapp3.1\wpf uygulama 1.deps.json
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\bin\Debug\netcoreapp3.1\wpf uygulama 1.runtimeconfig.json
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\bin\Debug\netcoreapp3.1\wpf uygulama 1.runtimeconfig.dev.json
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\bin\Debug\netcoreapp3.1\wpf uygulama 1.dll
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\bin\Debug\netcoreapp3.1\wpf uygulama 1.pdb
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.AssemblyInfoInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.AssemblyInfo.cs
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.dll
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.pdb
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\wpf uygulama 1.genruntimeconfig.cache
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\hesaplama formu.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\hesaplama formu.baml
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\ANA FORM.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\wpf\wpf uygulama 1\wpf uygulama 1\obj\Debug\netcoreapp3.1\ANA FORM.baml

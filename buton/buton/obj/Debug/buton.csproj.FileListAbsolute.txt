@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\bin\Debug\buton.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\bin\Debug\buton.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\bin\Debug\buton.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\buton\buton\obj\Debug\buton.pdb

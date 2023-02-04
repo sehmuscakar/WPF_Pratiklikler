@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\bin\Debug\wrap panel.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\bin\Debug\wrap panel.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\bin\Debug\wrap panel.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap panel.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap panel_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap panel_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap panel.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap_panel.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap panel.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap panel.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap panel.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\wrap panel\wrap panel\obj\Debug\wrap panel.pdb

@@ -1,0 +1,16 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\bin\Debug\radiobuton.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\bin\Debug\radiobuton.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\bin\Debug\radiobuton.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton_Content.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\radiobuton\radiobuton\obj\Debug\radiobuton.pdb

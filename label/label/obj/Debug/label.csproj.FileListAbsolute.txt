@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\bin\Debug\label.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\bin\Debug\label.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\bin\Debug\label.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\label\label\obj\Debug\label.pdb

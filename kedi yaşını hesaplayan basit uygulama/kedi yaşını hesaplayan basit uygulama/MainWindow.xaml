@@ -1,0 +1,27 @@
+﻿<Window x:Class="kedi_yaşını_hesaplayan_basit_uygulama.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kedi_yaşını_hesaplayan_basit_uygulama"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical" >
+        <StackPanel Orientation="Horizontal" >
+            <TextBlock Text="kedi yaşını hesapla " FontSize="18" >
+                
+            </TextBlock>
+            <TextBox x:Name="girişkedi"
+                         Width="120"
+                         Margin="5,0,0,0"
+                         TextAlignment="Center"
+                     KeyDown="girişkedi_KeyDown"
+                         FontSize="16"></TextBox>
+
+        </StackPanel>
+        <TextBlock x:Name="sonuctextblock"
+                   Text="kedi yaşı  "
+                   FontSize="18"></TextBlock>
+        <Image Source="C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\kedi yaşını hesaplayan basit uygulama\kedi yaşını hesaplayan basit uygulama\indir (11).jfif" Width="800" Height="350" ></Image>
+    </StackPanel>
+</Window>

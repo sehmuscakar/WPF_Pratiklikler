@@ -1,0 +1,9 @@
+﻿<Application x:Class="dosya_seçme_türleri_ve_başlanc_klsr_filtreleme.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:dosya_seçme_türleri_ve_başlanc_klsr_filtreleme"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

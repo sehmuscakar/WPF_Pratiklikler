@@ -1,0 +1,23 @@
+﻿<Window x:Class="örnek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:örnek"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock>  <TextBox Width="220" Height="30" Text="batman" FontSize="20" >
+
+        </TextBox></TextBlock>
+
+        <TextBlock> 
+            <ComboBox Height="30" Width="200"  >
+            <ComboBoxItem>mersin</ComboBoxItem>
+            <ComboBoxItem>adana</ComboBoxItem>
+            <ComboBoxItem>istanbul</ComboBoxItem>
+        </ComboBox></TextBlock>
+        
+        
+    </StackPanel>
+</Window>

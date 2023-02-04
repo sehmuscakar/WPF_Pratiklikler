@@ -1,0 +1,14 @@
+﻿<Window x:Class="Görsel_Programalama_Final.KayitgostermeFormu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Görsel_Programalama_Final"
+        mc:Ignorable="d"
+        Title="KayitgostermeFormu" Height="450" Width="800">
+    <Grid>
+        <ListBox Name="list3" HorizontalAlignment="Left" Height="149" Margin="145,137,0,0" VerticalAlignment="Top" Width="154"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="465,191,0,0" VerticalAlignment="Top" Width="137" Height="47" Click="Button_Click"/>
+
+    </Grid>
+</Window>

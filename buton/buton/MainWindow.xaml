@@ -1,0 +1,20 @@
+﻿<Window x:Class="buton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:buton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Width="100" Height="30" Click="Button_Click" 
+                MouseEnter="mybuton_MouseEnter"
+                MouseLeave="mybuton_MouseLeave"
+                ToolTip=" ben butonum " 
+                FontWeight="Bold"
+            x:Name="mybuton">click me!</Button>
+        <!-- ToolTip=" ben butonum "  buton üzerine gelince bu yazı okunacak -->
+
+        <Label x:Name="mylabel" FontSize="15"  > Hello World </Label>
+    </StackPanel>
+</Window>

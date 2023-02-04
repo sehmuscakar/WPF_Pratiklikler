@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\bin\Debug\expander.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\bin\Debug\expander.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\bin\Debug\expander.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\expander\expander\obj\Debug\expander.pdb

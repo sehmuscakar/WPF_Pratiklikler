@@ -1,0 +1,9 @@
+﻿<Application x:Class="kedi_yaşını_hesaplayan_basit_uygulama.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:kedi_yaşını_hesaplayan_basit_uygulama"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

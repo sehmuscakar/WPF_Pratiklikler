@@ -1,0 +1,16 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\bin\Debug\toolbarcontrol.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\bin\Debug\toolbarcontrol.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\bin\Debug\toolbarcontrol.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol_Content.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\toolbarcontrol\toolbarcontrol\obj\Debug\toolbarcontrol.pdb

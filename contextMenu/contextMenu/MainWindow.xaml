@@ -1,0 +1,39 @@
+﻿<Window x:Class="contextMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:contextMenu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBox
+            x:Name="benimtextbox"
+            Height="200">
+            <TextBox.ContextMenu>
+                <ContextMenu><!--farenin sağ tuşuna tıklanınca gelen menu kısmı -->
+                    <MenuItem x:Name="mibold" Header="bold" Click="mibold_Click"
+                              
+                              IsCheckable="True" Checked="mibold_Checked" Unchecked="mibold_Unchecked"
+                              
+                              ></MenuItem>
+                    <MenuItem x:Name="miItalic" Header="ıtalic" Click="miItalic_Click" ></MenuItem>
+                </ContextMenu>
+            </TextBox.ContextMenu>
+        </TextBox>
+        <Button x:Name="benimbuton" Content="içreik" >
+            <Button.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="change text" Click="MenuItem_Click" >
+                        <Image Source="C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\indir (3).jfif" ></Image>
+
+                        <MenuItem.Icon >
+                            <Image Source="C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\indir (3).jfif" ></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </ContextMenu>
+            </Button.ContextMenu>
+            
+        </Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\bin\Debug\calender(takvim).exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\bin\Debug\calender(takvim).exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\bin\Debug\calender(takvim).pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender(takvim).csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender(takvim)_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender(takvim)_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender(takvim).g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender_takvim_.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender(takvim).csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender(takvim).csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender(takvim).exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\calender(takvim)\calender(takvim)\obj\Debug\calender(takvim).pdb

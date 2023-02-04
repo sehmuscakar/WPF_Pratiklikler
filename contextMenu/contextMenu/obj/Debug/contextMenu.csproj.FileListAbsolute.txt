@@ -1,0 +1,16 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\bin\Debug\contextMenu.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\bin\Debug\contextMenu.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\bin\Debug\contextMenu.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\contextMenu\contextMenu\obj\Debug\contextMenu_Content.g.cs

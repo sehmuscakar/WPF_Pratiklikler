@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\bin\Debug\datepicker.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\bin\Debug\datepicker.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\bin\Debug\datepicker.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\datepicker\datepicker\obj\Debug\datepicker.pdb

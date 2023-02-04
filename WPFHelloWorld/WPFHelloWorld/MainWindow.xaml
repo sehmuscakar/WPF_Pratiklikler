@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFHelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFHelloWorld"
+        mc:Ignorable="d"
+        Title="Hello World Window" Height="600" Width="1000"> <!-- burda window başlığını 
+    ve yükseklik ve genişliğini değiştirebilirsiniz -->
+    <Grid>
+        <StackPanel> <!-- buton grid içine yazılırsa grid tamamını kaplar stak panel de ise sadece beli bir kısımda 
+            gridte tamamında kaplamasının sebebi ise grid içinde satır ve sutun ları ayarlamaman tek bir tane olması  -->
+            <Label>Hello World</Label>
+            <Button>batman</Button>
+        </StackPanel>
+
+        <Button  x:Name="mybutton"  Content="hello world"></Button><!-- grid in içinde olduğu için bu o yyüzden büyle tek satır ve sutun olduğu
+        için diğerlerinin önüne geçiyor -->
+        
+    </Grid>
+</Window>

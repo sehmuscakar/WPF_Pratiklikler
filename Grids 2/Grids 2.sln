@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grids 2", "Grids 2\Grids 2.csproj", "{D52EBCC5-2EEB-4C88-A389-C23D7D6FDF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52EBCC5-2EEB-4C88-A389-C23D7D6FDF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52EBCC5-2EEB-4C88-A389-C23D7D6FDF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52EBCC5-2EEB-4C88-A389-C23D7D6FDF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52EBCC5-2EEB-4C88-A389-C23D7D6FDF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1511673-35B0-4BD8-8C28-67E08578FB15}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿<Window x:Class="textblock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:textblock"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="950">
+    <Grid>
+        <StackPanel>
+        <TextBlock x:Name="mytextblock" >Hello <Bold>World</Bold> and Hello <Italic>you</Italic> 
+    <LineBreak/> <!-- bu altsatıra gecmesini sağlar  -->
+            sen buraya gir <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.google.com.tr/?hl=tr" > google.com </Hyperlink>
+
+
+
+        </TextBlock>
+
+        <TextBlock   TextTrimming="CharacterEllipsis" TextWrapping="Wrap" Foreground="Aqua" > <!-- eğer bu textblock lar stack panel için de olmasa yazılar üste üste gelir 
+            stack panel bunları ayrı ayrı satırda-->
+            batman batman batmna batman batman <Span Foreground="Black">diyarbakır </Span> abtman jbdkcjvbuırh sıprıfu fuır     batman batman batmna batman batman abtman jbdkcjvbuırh sıprıfu fuır    batman batman batmna batman batman abtman jbdkcjvbuırh sıprıfu fuır
+             <!--TextTrimming="CharacterEllipsis" bu eğer yazı sığmazsa 3 nokta işaret eder -->
+       <!--TextWrapping="Wrap" bu da eğer yazı sığmazsa alt satıra da doldurur -->
+            <!--Foreground="Aqua" buda yazı rengini değiştirir -->
+            
+            
+        </TextBlock>
+        </StackPanel>
+
+    </Grid>
+</Window>

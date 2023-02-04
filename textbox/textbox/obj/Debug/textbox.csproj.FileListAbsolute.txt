@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\bin\Debug\textbox.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\bin\Debug\textbox.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\bin\Debug\textbox.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\textbox\textbox\obj\Debug\textbox.pdb

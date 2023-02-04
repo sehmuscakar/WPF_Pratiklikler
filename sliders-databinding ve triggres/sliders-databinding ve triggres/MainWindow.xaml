@@ -1,0 +1,19 @@
+﻿<Window x:Class="sliders_databinding_ve_triggres.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sliders_databinding_ve_triggres"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel VerticalAlignment="Center" Margin="20"  >
+
+        <Slider Maximum="100" TickPlacement="BottomRight" TickFrequency="10" IsSnapToTickEnabled="True"
+               x:Name="slindir"
+                Value="50"
+            ValueChanged="slindir_ValueChanged"
+                ></Slider>
+        <TextBlock x:Name="mytextblock" > </TextBlock>
+        
+    </StackPanel>
+</Window>

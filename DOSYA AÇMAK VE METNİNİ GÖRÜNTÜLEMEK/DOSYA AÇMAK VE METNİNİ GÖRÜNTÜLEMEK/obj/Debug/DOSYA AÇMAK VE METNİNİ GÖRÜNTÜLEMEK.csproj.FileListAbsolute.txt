@@ -1,0 +1,15 @@
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\bin\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.exe.config
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\bin\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\bin\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.pdb
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\MainWindow.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\App.g.cs
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK_MarkupCompile.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK_MarkupCompile.lref
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\MainWindow.baml
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.g.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA_AÇMAK_VE_METNİNİ_GÖRÜNTÜLEMEK.Properties.Resources.resources
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.csproj.GenerateResource.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.exe
+C:\Users\scaka\OneDrive\Masaüstü\WPF (.Net)\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK\obj\Debug\DOSYA AÇMAK VE METNİNİ GÖRÜNTÜLEMEK.pdb
